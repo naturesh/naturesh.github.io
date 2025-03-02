@@ -2,8 +2,8 @@
 title: 텐서란 무엇인가, Matmul, mul 차이점
 author: naturesh
 date: 2019-08-09 20:55:00 +0800
-categories: [Blogging, Tutorial]
-tags: [getting started]
+categories: [MATH, AI]
+tags: [matrix, ai, tensor]
 math: true
 ---
 
