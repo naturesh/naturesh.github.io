@@ -1,9 +1,9 @@
 ---
-title: Getting Started
+title: 텐서란 무엇인가, Matmul, mul 차이점
 author: naturesh
-date: 2019-08-09 20:55:00 +0800
-categories: [Blogging, Tutorial]
-tags: [getting started]
+date: 2025-03-02 22:35:00 +0800
+categories: [MATH, AI]
+tags: [matrix, tensor]
 math: true
 ---
 
