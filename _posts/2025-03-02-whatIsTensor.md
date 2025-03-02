@@ -1,7 +1,7 @@
 ---
 title: 텐서란 무엇인가, Matmul, mul 차이점
 author: naturesh
-date: 2025-03-02 22:45:00 +0800
+date: 2025-03-01 22:45:00 +0800
 categories: [MATH, AI]
 tags: [matrix, ai, tensor]
 math: true
